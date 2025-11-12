@@ -1,0 +1,6 @@
+{
+  "timeout": 20,
+  "proxy": "",
+  "concurrency": 4,
+  "notes": "Copy to settings.json and adjust if you want to hardcode defaults. You can also set HTTP_PROXY env."
+}
